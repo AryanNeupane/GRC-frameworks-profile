@@ -1,0 +1,2 @@
+## SkyBridge Digital Services
+Business Profile: 1,000 employees, multi-cloud (AWS & Azure), hybrid workforce, customer payment platform, Microsoft 365, third-party software vendors, public-facing web applications, global operations.
